@@ -622,7 +622,9 @@ footer::after {
 /* Footer About */
 .footer_item .logo {
     margin-bottom: 15px;
-    width: 200px;
+    /*width: 200px;*/
+    margin-top: -136px;
+    margin-bottom: -128px;
 }
 .list-inline.footer_social_icon {
     margin: 32px 0 0;
